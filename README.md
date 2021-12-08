@@ -11,6 +11,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
   * [Blog posts](#blog-posts)
   * [C](#cc)
   * [Go](#go)
+  * [.NET](#dotnet)
   * [Java](#java)
   * [Lua](#lua)
   * [Python](#python)
@@ -55,6 +56,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 
 * [go-uring](https://github.com/godzie44/go-uring) - The `io_uring` library and
   runtime for GO
+
+## .NET
+
+* [IoUring](https://github.com/tkp1n/IoUring) - `io_uring` wrapper for C# / .NET
 
 ## Java
 
