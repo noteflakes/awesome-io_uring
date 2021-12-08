@@ -11,9 +11,9 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
   * [Blog posts](#blog-posts)
   * [C](#cc)
   * [Go](#go)
-  * [.NET](#dotnet)
   * [Java](#java)
   * [Lua](#lua)
+  * [.NET](#dotnet)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Rust](#rust)
@@ -57,10 +57,6 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 * [go-uring](https://github.com/godzie44/go-uring) - The `io_uring` library and
   runtime for GO
 
-## .NET
-
-* [IoUring](https://github.com/tkp1n/IoUring) - `io_uring` wrapper for C# / .NET
-
 ## Java
 
 * [io_uring-java](https://github.com/ChinaXing/io_uring-java) - Java binding for io_uring
@@ -69,6 +65,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 ## Lua
 
 * [Luring](https://github.com/thislight/luring) - a callback-style interface for Lua to io_uring
+
+## .NET
+
+* [IoUring](https://github.com/tkp1n/IoUring) - `io_uring` wrapper for C# / .NET
 
 ## Python
 
