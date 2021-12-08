@@ -29,10 +29,18 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 
 (Ordered by stamp descending)
 
+* 2021-10 [Stupid tricks with io_uring: a server that does zero syscalls per
+  request](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
+* 2021-06 [io_uring is not an event
+  system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
 * 2021-03 [I made a file copy thing](https://wheybags.com/blog/wcp.html)
-* 2020-05 [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
-* 2020-04 [io_uring by example](https://unixism.net/2020/04/io-uring-by-example-article-series/)
-* 2019-01 [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
+* 2020-05 [Notes on io-uring](https://boats.gitlab.io/blog/post/io-uring/)
+* 2020-05 [How io_uring and eBPF Will Revolutionize Programming in
+  Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+* 2020-04 [io_uring by
+  example](https://unixism.net/2020/04/io-uring-by-example-article-series/)
+* 2019-01 [Ringing in a new asynchronous I/O
+  API](https://lwn.net/Articles/776703/)
 
 ## C/C++
 
