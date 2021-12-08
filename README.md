@@ -29,6 +29,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 
 (Ordered by stamp descending)
 
+* 2021-03 [I made a file copy thing](https://wheybags.com/blog/wcp.html)
+* 2020-05 [How io_uring and eBPF Will Revolutionize Programming in Linux](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 * 2020-04 [io_uring by example](https://unixism.net/2020/04/io-uring-by-example-article-series/)
 * 2019-01 [Ringing in a new asynchronous I/O API](https://lwn.net/Articles/776703/)
 
@@ -84,6 +86,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
   fast, scalable and secure Key-Value
 * [Short-circuit](https://github.com/3541/short-circuit) - High-performance web
   server for Linux, built on io_uring
+* [wcp](https://github.com/wheybags/wcp) - Copy files very fast using io_uring
 
 # Other Awesomeness
 
