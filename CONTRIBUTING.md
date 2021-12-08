@@ -18,4 +18,4 @@ To be on the list, projects should follow these quality standards:
 * Documented.
 * Tests.
 
-Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/contributors), you're awesome and wouldn't be possible without you!

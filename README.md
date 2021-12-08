@@ -9,7 +9,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 * [Awesome io_uring](#awesome-io_uring)
   * [Documentation](#documentation)
   * [Blog posts](#blog-posts)
-  * [C](#c-c)
+  * [C](#cc)
   * [Go](#go)
   * [Java](#java)
   * [Lua](#lua)
@@ -65,7 +65,6 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 * [io-event](https://github.com/socketry/io-event/) - Fiber scheduler for Ruby 3.0
 * [polyphony](https://github.com/digital-fabric/polyphony) - Fiber-based
   concurrency for Ruby using io_uring
-* 
 
 ## Rust
 
