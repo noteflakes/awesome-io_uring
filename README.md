@@ -2,9 +2,14 @@
 
 A categorized collection of awesome io_uring resources, libraries and tools.
 
-Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/ciconia/awesome-io_uring/blob/master/CONTRIBUTING.md) first.
+Contributions and suggestions are always welcome! Please take a look at the
+[contribution guidelines and quality
+standard](https://github.com/ciconia/awesome-io_uring/blob/master/CONTRIBUTING.md)
+first.
 
-Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/contributors), you're awesome and this project wouldn't be possible without you!
+Thanks to all
+[contributors](https://github.com/ciconia/awesome-io_uring/graphs/contributors),
+you're awesome and this project wouldn't be possible without you!
 
 * [Awesome io_uring](#awesome-io_uring)
   * [Documentation](#documentation)
@@ -53,17 +58,20 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 
 ## Go
 
-* [go-uring](https://github.com/godzie44/go-uring) - The `io_uring` library and
+* [go-uring](https://github.com/godzie44/go-uring) - The io_uring library and
   runtime for GO
 
 ## Java
 
-* [io_uring-java](https://github.com/ChinaXing/io_uring-java) - Java binding for io_uring
-* [Jliburing](https://github.com/Sammers21/Jliburing) - Java binding for liburing and io_uring
+* [io_uring-java](https://github.com/ChinaXing/io_uring-java) - Java binding for
+  io_uring
+* [Jliburing](https://github.com/Sammers21/Jliburing) - Java binding for
+  liburing and io_uring
 
 ## Lua
 
-* [Luring](https://github.com/thislight/luring) - a callback-style interface for Lua to io_uring
+* [Luring](https://github.com/thislight/luring) - a callback-style interface for
+  Lua to io_uring
 
 ## Python
 
@@ -80,7 +88,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 
 * [glommio](https://github.com/DataDog/glommio) - a Cooperative Thread-per-Core
   crate for Rust & Linux based on io_uring
-* [io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for
+* [io-uring](https://github.com/tokio-rs/io-uring) - The io_uring library for
   Rust
 * [nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
 * [ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io_uring
@@ -91,6 +99,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-io_uring/graphs/
 
 * [Cachegrand](https://github.com/danielealbano/cachegrand) - an open-source
   fast, scalable and secure Key-Value
+* [plocate](https://plocate.sesse.net/) - a much faster `locate` using io_uring
 * [Short-circuit](https://github.com/3541/short-circuit) - High-performance web
   server for Linux, built on io_uring
 * [wcp](https://github.com/wheybags/wcp) - Copy files very fast using io_uring
