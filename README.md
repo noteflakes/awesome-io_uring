@@ -18,6 +18,7 @@ you're awesome and this project wouldn't be possible without you!
   * [Go](#go)
   * [Java](#java)
   * [Lua](#lua)
+  * [.NET](#dotnet)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Rust](#rust)
@@ -72,6 +73,10 @@ you're awesome and this project wouldn't be possible without you!
 
 * [Luring](https://github.com/thislight/luring) - a callback-style interface for
   Lua to io_uring
+
+## .NET
+
+* [IoUring](https://github.com/tkp1n/IoUring) - `io_uring` wrapper for C# / .NET
 
 ## Python
 
