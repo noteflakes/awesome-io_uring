@@ -95,6 +95,8 @@ you're awesome and this project wouldn't be possible without you!
   crate for Rust & Linux based on io_uring
 * [io-uring](https://github.com/tokio-rs/io-uring) - The io_uring library for
   Rust
+* [Monoio](https://github.com/bytedance/monoio) - a thread-per-core Rust runtime
+  with io_uring
 * [nuclei](https://github.com/vertexclique/nuclei) - Proactive IO & Runtime system
 * [ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io_uring
 * [rio](https://github.com/spacejam/rio) - pure rust io_uring library, built on
