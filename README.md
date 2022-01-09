@@ -18,7 +18,7 @@ you're awesome and this project wouldn't be possible without you!
   * [Go](#go)
   * [Java](#java)
   * [Lua](#lua)
-  * [.NET](#dotnet)
+  * [.NET](#net)
   * [Python](#python)
   * [Ruby](#ruby)
   * [Rust](#rust)
