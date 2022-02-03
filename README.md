@@ -35,6 +35,8 @@ you're awesome and this project wouldn't be possible without you!
 
 (Ordered by stamp descending)
 
+* 2021-12 [Zero-copy network transmission with
+  io_uring](https://lwn.net/Articles/879724/)
 * 2021-10 [Stupid tricks with io_uring: a server that does zero syscalls per
   request](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
 * 2021-06 [io_uring is not an event
