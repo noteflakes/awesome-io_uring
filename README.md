@@ -35,6 +35,7 @@ you're awesome and this project wouldn't be possible without you!
 
 (Ordered by stamp descending)
 
+* 2022-02 [Missing Manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 * 2021-12 [Zero-copy network transmission with
   io_uring](https://lwn.net/Articles/879724/)
 * 2021-10 [Stupid tricks with io_uring: a server that does zero syscalls per
