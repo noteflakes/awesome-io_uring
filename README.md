@@ -42,6 +42,7 @@ you're awesome and this project wouldn't be possible without you!
   request](https://wjwh.eu/posts/2021-10-01-no-syscall-server-iouring.html)
 * 2021-06 [io_uring is not an event
   system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
+* 2021-05 [Using io_uring to make a high-performance... finger server](https://drewdevault.com/2021/05/24/io_uring-finger-server.html)
 * 2021-03 [I made a file copy thing](https://wheybags.com/blog/wcp.html)
 * 2020-05 [Notes on io-uring](https://boats.gitlab.io/blog/post/io-uring/)
 * 2020-05 [How io_uring and eBPF Will Revolutionize Programming in
