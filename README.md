@@ -35,6 +35,8 @@ you're awesome and this project wouldn't be possible without you!
 
 (Ordered by stamp descending)
 
+* 2022-03 [IO_uring Gets New Features & Speed-Ups With Linux 5.18](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.18-IO_uring)
+* 2022-03 [Put an io_uring on it: Exploiting the Linux Kernel](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
 * 2022-02 [Missing Manuals - io_uring worker pool](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 * 2021-12 [Zero-copy network transmission with
   io_uring](https://lwn.net/Articles/879724/)
