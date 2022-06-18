@@ -14,7 +14,8 @@ you're awesome and this project wouldn't be possible without you!
 * [Awesome io_uring](#awesome-io_uring)
   * [Documentation](#documentation)
   * [Blog posts](#blog-posts)
-  * [C](#cc)
+  * [Videos](#videos)
+  * [C/C++](#cc)
   * [Go](#go)
   * [Java](#java)
   * [Lua](#lua)
@@ -54,12 +55,17 @@ you're awesome and this project wouldn't be possible without you!
 * 2019-01 [Ringing in a new asynchronous I/O
   API](https://lwn.net/Articles/776703/)
 
+## Videos
+
+* 2022-06 [What's new with io_uring?](https://youtu.be/v--rVT4RsCE?t=2045) ([Slides](https://kernel.dk/axboe-kr2022.pdf))
+
 ## C/C++
 
 * [libfev](https://github.com/patrykstefanski/libfev) - A library for events and
   fibers
 * [liburing](https://github.com/axboe/liburing/) - wrapper lib for io_uring by
   [io_uring's author](https://github.com/axboe)
+* [PhotonLibOS](https://github.com/alibaba/PhotonLibOS) - a high-efficiency LibOS framework, based on a set of carefully selected C++ libs.
 * [xynet](https://github.com/xuanyi-fu/xynet) - network library based on
   io_uring and C++20 coroutine
 
@@ -112,6 +118,7 @@ you're awesome and this project wouldn't be possible without you!
 
 * [Cachegrand](https://github.com/danielealbano/cachegrand) - an open-source
   fast, scalable and secure Key-Value
+* [Dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 * [plocate](https://plocate.sesse.net/) - a much faster `locate` using io_uring
 * [Short-circuit](https://github.com/3541/short-circuit) - High-performance web
   server for Linux, built on io_uring
