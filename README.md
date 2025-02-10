@@ -117,6 +117,8 @@ you're awesome and this project wouldn't be possible without you!
 * [ringbahn](https://github.com/ringbahn/ringbahn) - safe bindings to io_uring
 * [rio](https://github.com/spacejam/rio) - pure rust io_uring library, built on
   libc, thread & async friendly, misuse resistant
+* [trale](https://github.com/hexagonal-sun/trale) - a tiny rust async linux executor
+  using an io_uring-based reactor
 
 ## Software
 
