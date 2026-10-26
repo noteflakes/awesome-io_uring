@@ -70,6 +70,8 @@ you're awesome and this project wouldn't be possible without you!
 * [liburing](https://github.com/axboe/liburing/) - wrapper lib for io_uring by
   [io_uring's author](https://github.com/axboe)
 * [PhotonLibOS](https://github.com/alibaba/PhotonLibOS) - a high-efficiency LibOS framework, based on a set of carefully selected C++ libs.
+* [qev](https://github.com/isndev/qev) - Maintained libev, same API, with an io_uring
+  backend beside epoll, kqueue and wepoll on Windows.
 * [xynet](https://github.com/xuanyi-fu/xynet) - network library based on
   io_uring and C++20 coroutine
 
